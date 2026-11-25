@@ -1,11 +1,11 @@
 {
     "schema":  1,
-    "serial":  1795620349066,
-    "version":  "1.0.2",
-    "url":  "https://updates.oceaniclauncher.dev/OceanicLauncher-1.0.2.zip",
-    "sha256":  "88facbbaf95b123e2a25b05706d28329200842243bb04510d34d23b076048cb3",
-    "size":  1811853,
+    "serial":  1795620790316,
+    "version":  "1.0.3",
+    "url":  "https://developerleroy.github.io/oceanic-feed/OceanicLauncher-1.0.3.zip",
+    "sha256":  "246d0f0a955bfd96b05c7edafbfb446356725ec40c9604d92dd34b60964da877",
+    "size":  1811863,
     "force":  false,
-    "notes":  "what changed",
-    "signature":  "WYEJq2o0j+e+tvbwE247dpcnyfT7/Wz9jpUFD78xuVVqapLPCru4StjcZKl8M6356SHO5OasMCJTZz2aATv6NYO307AByS91F1Bya7ZLTTBOV9KlqZX+hQUaxo4PLsg2107yFA1Ngz7WBqYV0UX4WFVVWf4yipz00F03PGjEctoPZRNyh7l21KhwoTyTfbej4srlyba0PVFnBZWiCRUfDiXBGpB3y/0nX7XDz7gDPrvuc7OkmBsxfxUKrJurFdc5u+BS7tnk36OA41/5m5pWtDDY7+L3dBL0f19elVHyXIvkosXDfGc+b1N0U2dsWKqxaZwfnfa5TFEZDjgMLzUSV5AToUYJ5OKgw8tlMVIe4U9Oh5H8ngfeBKo6FokLf1CKVj9Y+Kasge7F8MliAz6uj7xZTMGHA/m3T7J1r02zlsmrU1xbJb9cRfRqhvldX9FNmhdz5B71cS6/8LIlUukGsnYbpEcNUv5QeA18elwdRw2QvtD5eQ1c5hweIPhBRBTVx8CQIx0M3uHS+nj7wtRTi4huMaI3jbP1UxdGWztzP3cko4mIpI8clI1FRHihKeAIgWD2bv9jeFmPubWz9g7wtwMA3co4IXSL5FT5Xn3StJot3zYqQlwCH/4unzpIG4Ge3BfiZWQedyyTys1yJ6kZTQFMLukteI1qEpTMOxBGi/g="
+    "notes":  "correct feed url",
+    "signature":  "a5UebIajRTdqvc2weAWfu97MypGTzeQqGulDuMPs8x7C7bc3M0wVnWVcyh2vf5NcgE01zekXQS+nmhb7k8l4vDuPJvzLh7cqUzSw05zQplGTSkwxuvOpUb4YS+jUsqH01WDdchgUfw716BWwfmfwf5oPYvSLVEm9gnsCLqmLIE+H2zjwqdzYMNXlDieqericvGVyxZtaxiLpkzQQ+50+56gE0W4w2pfu5FBOzZI+e+nSDB9QHn5N4b+a3SngLG5MeGOg0ZOqwQvgP0BFvTxF1LarqHNvrmrY2uGob+058VmF0EqpZD/cOTN9s0B/wPxz1R6wreSGKjTf+mQADP3LpkMZPExQNKHFd84pdKYjyy3U95M5VY2AQ91Om1zYOSpKwSTLPhzim99I+lMSQYtRcMYFEHEEzq8EDWwfe8DMV4AFC8tRR3n7C2zB+kqTr0MTdoU4rBPMLQxWKFEcRUnhtjc3yst5HFTNU5Wz2arAsy59TDN0UGiKWB5jmam35+pvGC/JlagmZu+M2G/68ZZCXNFfp/0HBGlznPQ9FhEz2JsElKJ58UAJ4gBevvHr22lqLi4yUnC8BdP2IK27maju3w2cAYBNOpPfC2RHiG7cyJHFEWPRxUJlSo8lm/hFO5pqYCkHPrLrW3ZhrEcqT6xTpdCl62zHitTeUGvES8VFOok="
 }
