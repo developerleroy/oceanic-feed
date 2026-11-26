@@ -1,11 +1,11 @@
 ﻿{
     "schema":  1,
-    "serial":  1795707535868,
-    "version":  "1.2.5",
-    "url":  "https://developerleroy.github.io/oceanic-feed/OceanicLauncher-1.2.5.zip",
-    "sha256":  "d81bf6429fcb12fe249a738604c5d22c57c2ef340ee2ffb4423b9348c237fcee",
-    "size":  1559034,
+    "serial":  1795707971060,
+    "version":  "1.2.6",
+    "url":  "https://developerleroy.github.io/oceanic-feed/OceanicLauncher-1.2.6.zip",
+    "sha256":  "7e46b96d03dcd2bd09543ae4a7e307e6f597706cf04e02603d7901a99431b5a6",
+    "size":  1559064,
     "force":  false,
-    "notes":  "auto Java install",
-    "signature":  "aDhvU2w2w6nd5H0TV6peCB4aZh2glBZhm3ffcsm3R3CLfNHXzkf2Xl5uqwkAK/ZFPIjs8xXMz5xl/nwCb9IRBsNG9seRBTafks8Mg2wurMHL+mdnb0xwCMSxxWVDLnKfjvQNnd9HI5bvx239cHqM3qKet7ZXhhD62GxcHXCa1XIyNOOnA5Kp7+lECTxYeiBYlYiyCWS6KM19dwlDcdOmxkZkjHlm1CdP9tUGNaOZhdy248TDgjPvrnNfgmrxnh58UoEBxZ15TmXqxRMmUjPJwU1jrEQ1EdGdA7LxKwb2HGtEQrCdh8ESPkZAeCGkWAtu9ij+6uU5BDSidZFRR2DVLerjLbXPOe5OaJw90JS/L0w59BJx3z5EILfUj4815YHbV18Maqp234GpLJB4RyyHXbDle0uMisTmWkCK4jc1UXDa6X52WG1n2SqH6lnHFSwtkZDzAP4UD7FiVUKxJS+jdWU1w+1Uv9h2l6SYum7YqVGogYjYvpiTUBcTPNavS3yuUn2v4S6aJIjTx1lMiFzMyt+aCagU6PhvQtHrqDfcLQ+/2tgYiHMw7bRKD6fXOkvm26D/NAkciydycLaqirfy+qn1xIPVHC+o/BrEm1lKtb8Xf0T4IQC2mjmwSnCY3EF6oKZUIQ41aW14iiHCGrO3d4owb+53LsvngeJPgXfSFyg="
+    "notes":  "cache bust",
+    "signature":  "dgZErlQFGTRi94Zztf+mRyrWnKDZSAsn1W2pHU69skcE4VBJXxxgHEedstlQVH74m2o1+hRvrxYMwG0/jnX+9Yl5ArUVDIK+fJ8t7fY+tIwNJKn3Vj/gEZhPHr/gYeNl3vnkvDeYzbKshL+Vm7jaUFHP+iEiI70Qha26+1FblZAa1LkebR+qjBakgwiQjAyDGSFJNah2LUDlyeFElWlQAaQKem8cOo+GPErAPAiVO0tIZ4wNT5sPQU2hiOqyh0gVg+6b0m7gZUBZXaAsSanluiJpl9YOp+ReLIUV+tZDS1PnOv81WRRBKlqhZSp6jL5P/yEv+ntydSJibkbkoPZREgumE4/4B8h28BEVG2hEiMUtnCH/v57UC94/yQ7IDP3eN2KHXwmDd2hAtpOIFr0s3BlIsybsfxi770YIxKkbhr1pEtT39TRDckl/L8X7v1VhIKUjOl1STSwp57nxPArrH0ZfaNYH/pDTF1q686PX3WRFg8gY0koDQ0kshl25ddZMkfeluE92yEGIpDEYfO2kYMFCZecuNhuUdjqLCnSd0XDeUHii+fcdg4wZqxMPelYM+B5ZKE/TfNDtI4LOuOtcsyCCX6T57nIUda732ri7ogJF3npBb7yfKMxCmWGWPhdB4LMAZSQnCKtGgX5okI3XrLfgdnUkq6oXPdvoXvEu6jk="
 }
